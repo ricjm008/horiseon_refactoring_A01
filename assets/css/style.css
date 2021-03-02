@@ -91,12 +91,12 @@ body {
     color: #ffffff;
 }
 
-.benefit-content.benefit-title {
+.benefit-title {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-content img {
+.benefit-image {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -111,11 +111,11 @@ body {
     color: #ffffff;
 }
 
-.solutions-content img {
+.solutions-image {
     max-height: 200px;
 }
 
-.solutions-content.solutions-title {
+.solutions-title {
     margin-bottom: 20px;
     font-size: 36px;
 }
