@@ -15,16 +15,16 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.header-logo {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header-logo.seo {
     color: #d9dcd6;
 }
 /* I altered .header div to .header nav, inline with the changes I made in the HTML */
-.header nav {
+.header-nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -41,12 +41,12 @@ body {
     margin-left: 25px;
 }
 
-a {
+.nav-link {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
+.text-content {
     font-size: 16px;
 }
 /* I altered class .hero to class .background-image */
@@ -91,12 +91,12 @@ p {
     color: #ffffff;
 }
 
-.benefit-content h3 {
+.benefit-content.benefit-title {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-content img {
+.benefit-content.benefit-image {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -111,11 +111,11 @@ p {
     color: #ffffff;
 }
 
-.solutions-content img {
+.solutions-content.solutions-image {
     max-height: 200px;
 }
 
-.solutions-content h2 {
+.solutions-content.solutions-title {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -127,6 +127,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer-title {
     font-size: 20px;
 }
