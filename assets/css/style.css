@@ -96,7 +96,7 @@ body {
     text-align: center;
 }
 
-.benefit-content.benefit-image {
+.benefit-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -111,7 +111,7 @@ body {
     color: #ffffff;
 }
 
-.solutions-content.solutions-image {
+.solutions-content img {
     max-height: 200px;
 }
 
