@@ -20,7 +20,7 @@ body {
     font-size: 48px;
 }
 
-.header-logo.seo {
+.seo {
     color: #d9dcd6;
 }
 /* I altered .header div to .header nav, inline with the changes I made in the HTML */
